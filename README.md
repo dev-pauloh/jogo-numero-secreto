@@ -14,6 +14,8 @@ Jogo criado em Javascript utilizando reconhecimento de voz para descobrir um nú
 
 ### Paulo Henrique
 
+### Link do Projeto: https://jogo-numero-secreto-ochre-seven.vercel.app/
+
 ### Linkedin: https://www.linkedin.com/in/paulohwebdev/
 
 ```
